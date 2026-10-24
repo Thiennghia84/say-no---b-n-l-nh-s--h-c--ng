@@ -1,0 +1,6 @@
+{
+  "name": "SAY NO - Bản Lĩnh Số Học Đường",
+  "description": "Ứng dụng tương tác giả lập tình huống nhóm chat giúp học sinh THCS rèn luyện kỹ năng nhận diện và dũng cảm từ chối nội dung độc hại trên mạng xã hội.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
